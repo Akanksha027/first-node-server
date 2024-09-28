@@ -1,0 +1,20 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "firstserver"
+  },
+  "author": "akanksha",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21",
+    "tailwind": "^4.0.0"
+  }
+}
